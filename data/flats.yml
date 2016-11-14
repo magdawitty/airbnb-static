@@ -1,0 +1,27 @@
+elephant:
+  owner_name: Elephant
+  main_picture: card-munich.jpg
+  picture: Munich_selected.jpg
+  owner_picture: images/elephant.jpg
+  name: Elephant house
+  summary: Africa in Munich
+  city: Munich, Germany
+  wifi: true
+lion:
+  owner_name: Lion
+  main_picture: card-zurich.jpg
+  picture: Zurich_selected.jpg
+  owner_picture: lion.jpg
+  name: Lion cave
+  summary: Percious place in Zurich
+  city: Zurich, Switzerland
+  wifi: false
+monkey:
+  owner_name: Monkey
+  main_picture: card-barcelona.jpg
+  picture: Barcelona_selected.jpg
+  owner_picture: monkey.jpg
+  name: Monkey garden
+  summary: Treehouse in Spain
+  city: Barcelona, Spain
+  wifi: true
